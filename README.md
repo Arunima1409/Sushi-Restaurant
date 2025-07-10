@@ -16,11 +16,12 @@ Welcome to **Sushi Zen**, a sleek and modern sushi restaurant website built pure
 
 ### 🖼️ Screenshots
 
-1. ![Screenshot 1 -(./Screenshot-1.png)
-2. ![Screenshot 2 -(./Screenshot-2.png)
-3. ![Screenshot 3 -(./Screenshot-3.png)
-4. ![Screenshot 4 -(./Screenshot-4.png)
-5. ![Screenshot 5 -(./Screenshot-5.png)
+1. ![Screenshot 1](./Screenshot-1.png)
+2. ![Screenshot 2](./Screenshot-2.png)
+3. ![Screenshot 3](./Screenshot-3.png)
+4. ![Screenshot 4](./Screenshot-4.png)
+5. ![Screenshot 5](./Screenshot-5.png)
+
 
 ---
 
